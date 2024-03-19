@@ -1,4 +1,4 @@
-# Project Name
+# Demo OpenAI Fast API
 
 Example fastAPI project to interact with Azure OpenAI.
 
